@@ -1,0 +1,113 @@
+Application Areas of Augmented Reality
+  Gamification - Social media platforms like Snapchat and Instagram have introduced AR games that use the camera and the environment around the user to create an 
+  interactive and engaging experience. AR technology also developed interactive games and experiences, such as Pokemon Go, where digital creatures are projected onto 
+  real-world environments. Additionally, it can be utilized to improve live events like concerts and sporting competitions. Additional examples are the AR Theme Parks 
+  (Star Wars: Secrets of the Empire): Disney theme parks uses AR headsets to transport guests to a virtual reality world where they can interact with Star Wars characters
+  and environments, AR Sports (NBA AR App), AR Racing Games (AR Car Race): allows players to race toy cars on a virtual track that is overlaid onto a real-world surface.  
+
+  Education and Training -  AR can be applied to education to develop fun and interactive learning experiences. It can be utilized to visualize complex concepts and improve 
+  learning experience. AR can imitate real-world situations in the training sector to assist employees in acquiring new abilities. Examples are the Projectors, Interactive 
+  Whiteboards, and Smart Glasses that provides remote assistance  to workers in the field. For example, a technician wearing smart glasses can stream live video of a problem 
+  to an expert, who can then provide guidance and instructions in real-time. (Example: zSpace and DAQRI Smart Glasses)
+
+  Retail and Advertising - Customers can view products in their own environment by using AR to create interactive shopping experiences. Additionally, it can be applied to 
+  marketing to develop interactive and appealing campaigns that evoke interest in customers.  Examples are Product Visualization: AR can be used to show customers what products
+  will look like in their homes or other environments. Furniture companies can use AR to create virtual showrooms where customers can see how different pieces of furniture 
+  will look in their homes. Virtual Try-On: AR technology can be used to create virtual try-on experiences for customers. Cosmetics companies can use AR to show customers how 
+  different shades of makeup will look on their faces, without the need for physical samples. In-Store Navigation: AR can be used to help customers navigate retail stores. 
+  A store can create an AR map that guides customers to the products they are looking for. (Example: IKEA Place and Pepsi Max Unbelievable AR Bus Shelter)
+
+  Tourism - Utilizing augmented reality (AR) in tourism can provide immersive and engaging experiences to customers. It can also be employed in the hotel industry to improve 
+  the experience of visitors by giving them extra information and services. Examples are Virtual Tours: AR technology can be used to create virtual tours of tourist attractions. 
+  A museum can use AR to create virtual exhibits that visitors can explore using their smartphones or AR headsets. Language Translation: AR technology can be used to provide 
+  tourists with real-time language translation. Example for this is a tourist visiting a foreign country can use an AR app to translate signs and menus into their native 
+  language. (Example: Blippar)
+
+  Medicine/Healthcare - To organize and picture operations and other medical procedures, AR can be employed in the healthcare industry. It can also be used in patient education 
+  to help them better understand their condition and treatment options. Examples are Surgical Planning: AR technology can be used to create 3D models of a patient's anatomy that 
+  can be used to plan surgeries. Surgeons can use AR to visualize the patient's anatomy in real-time during the procedure. Medical Training: AR technology can be used for 
+  medical training purposes, allowing trainees to see virtual overlays and instructions superimposed on real-world equipment. This can improve the efficiency and safety of 
+  training, as trainees can practice hands-on skills in a safe and controlled environment. (Example: Hololens)
+
+  Architecture and Engineering - Buildings and other structures can be virtually modeled using augmented reality (AR) in engineering and architecture. This can assist architects
+  and engineers in visualizing projects and seeing potential problems before to begin the process of construction. Examples are Building Design: AR technology can be used to 
+  create virtual 3D models of buildings that can be viewed and manipulated in real-time. This allows architects and engineers to visualize the building and make design decisions 
+  before construction begins. Real-Time Collaboration:y For example, a team of architects and engineers can use AR to visualize and discuss design changes in real-time, 
+  even if they are located in different parts of the world. Construction Management: AR technology can be used to monitor construction progress and identify potential issues. 
+  For example, a construction manager can use AR to see virtual overlays of building plans superimposed on the construction site, making it easier to identify and resolve 
+  issues. (Examples: Holobuilder and Trimble Connect)
+
+
+Objectives
+The objectives of this paper are to:
+Explain what is Augmented Reality
+Define the features of Augmented Reality
+Describe the difference of AR, VR, and MR
+Explain the architecture of Augmented Reality Systems
+Describe the application areas of Augmented Reality
+Explain 5 examples of Augmented Reality Technology within Social Media Platforms
+
+
+Scope of the topic
+  This paper was conducted to simply explore the integration of Augmented Reality technology within social media platforms. Furthermore, this paper prompts to explain 
+  what Augmented Reality is, its’ features,  describe the difference between AR, VR, and MR, explain the architecture of Augmented Reality systems, and lastly describe 
+  the application areas of Augmented Reality. 
+
+5 Examples of Augmented Reality in Social Media
+     AR in social media allows users to interact with online material in real-time, producing unique and captivating experiences. Users are able to apply filters, lenses, 
+     and other effects to their pictures and videos on several social media platforms.
+
+  Snapchat -  Snapchat is a social media platform that allows users to send photos and videos to their friends and followers. One of the app's distinguishing features is the 
+use of augmented reality (AR) technology to improve the user experience, Snapchat introduced its AR lenses feature in 2015. With Snapchat's augmented reality features, 
+users can instantly add lenses, filters, and stickers to their images and videos. These AR effects can enhance a user's snaps with animations, 3D objects, and other effects.
+One of the most popular features on Snapchat is the Lens Studio, which allows users to create their own AR lenses and share them with the community. This has resulted in a 
+wide range of creative and innovative lenses, ranging from facial recognition games to branded promotional filters. Snapchat has also introduced a feature called "Scan," 
+which allows users to scan objects in the real world using their smartphone camera and see related AR experiences. Hence, Snapchat is often credited as one of the pioneers 
+in using AR for social media purposes.
+
+  Instagram - Instagram first used AR (augmented reality) in 2017 when it introduced the "face filters" feature. This feature allows users to add AR effects to their selfies, 
+such as animal ears, sunglasses, and makeup looks, by employing facial recognition technology to map the user's face and overlay virtual objects on it in real-time. Since 
+then, Instagram has increased its use of AR by introducing "world effects" and "interactive filters," which let users control and manipulate AR elements with their movements 
+and gestures. World effects are AR effects that users can place in their surroundings and interact with. Instagram's AR capabilities have been powered by its Spark AR 
+platform, which allows developers to create and publish custom AR effects for the platform. With a large selection of effects accessible for users to discover and embed into 
+their content, Spark AR has contributed to making Instagram's AR experiences diverse and interesting.
+
+  Facebook - Facebook introduced its Camera Effects platform in 2017, which enables developers to design unique augmented reality (AR) experiences for Facebook's camera. 
+These augmented reality (AR) experiences, which can feature animations, 3D objects, and special effects, can be accessible through the Facebook app's camera.
+Facebook has also integrated AR features into its Messenger app, allowing users to add AR effects and filters to their video chats and calls. Face masks, 3D objects, and 
+animations are some of these effects. One of Facebook's most notable AR endeavors is its Portal devices, which are meant for video calls and feature built-in AR effects and 
+animations. These effects can be used to improve video calls, making them more immersive and entertaining.
+
+  Pinterest - Pinterest has integrated AR into its app to allow users to try on virtual makeup and hairstyles, as well as preview furniture and home decor in their own 
+spaces. Pinterest is a social media platform where users can explore and bookmark ideas for a variety of topics such as home design, fashion, food, and more. In 2019, 
+Pinterest launched an improved augmented reality (AR) tool called "Lens" that enables users to sample furniture and home decor in their own homes as well as try on virtual 
+makeup and hairstyles. The Lens feature uses computer vision technology to detect objects in real-time and suggest related concepts, as well as offer personalized 
+recommendations based on the user's search history and preferences. Users can now virtually try on clothing to see how they would appear in real life because of 
+Pinterest's integration of augmented reality into its shopping tools. To provide these augmented reality shopping experiences, the business has teamed up with a number 
+of significant stores, including Target, Macy's, and IKEA.
+
+  TikTok -  TikTok initially launched AR features in 2018, with the launch of its "Face Filters" feature. TikTok is a well-known social media platform where users may create 
+and share short videos, frequently to music or sound effects. The app has a large and active user base and is widely popular for its creative and often hilarious content.  
+One of TikTok's most well-known AR features is the "Green Screen" effect, which enables users to change the background of their videos with a unique image or video. 
+This feature has inspired a wide variety of creative and artistic videos on the platform.
+Additionally, TikTok recently revealed an AR feature called "Gamified Branded Effects" that enables businesses to design unique AR effects that users can engage with in a 
+fun way. On the platform, these branded effects have grown in popularity and have been deployed by a variety of companies and brands.
+
+
+Technology Observation
+    AR is now growing and is used in businesses like brand advertising and also in media, But there is a disadvantage in AR which causes false information, 
+    example is the UFO/ghost sightings back then, people in 2012-2016 are not much aware about the development of AR so they assume that the picture/video that are 
+    escalating in social media are true.
+
+Summary
+   Augmented reality (AR) is a technology that integrates digital media onto the real world. The user's experience of reality is enhanced by the insertion of virtual objects 
+   to their vision. Through gadgets like smartphones, tablets, and smart glasses. Real-time interaction with virtual objects, spatial mapping, and object recognition are 
+   some of the elements of AR. It enables more natural and intuitive user interaction with the digital world. Numerous industries, including education, entertainment, 
+   marketing, and healthcare, can benefit from augmented reality. Interactive museum displays, virtual try-ons for retail purchasing, and simulations used in medical 
+   training are a few examples. Social media platforms are also using AR technology to improve user experiences. Snapchat's AR lenses, Instagram's AR filters, Facebook's 
+   Spark AR Studio, TikTok's AR effects, and Pinterest's Lens are five examples of AR technology in social media platforms. 
+
+PPT
+
+
+
