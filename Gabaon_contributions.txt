@@ -1,0 +1,49 @@
+My Contributions:
+
+-PPT
+-PRESENTED MY PARTS AND THE USES AND FUNCTIONS OF AR MADE BY MS. CAMODOC
+-INTRODUCTION
+-FEATURES OF AR
+-IMPORTANCE AND BENEFITS
+
+
+Introduction 
+        Augmented Reality (AR) is the real world augmented with additional information or digital graphics onto the user's view. it projects computer generated images or video into top of reality, typically accessed through a camera-enabled device. AR is often considered similar to Virtual Reality (VR), but AR does not substitute a digital or virtual space for reality but instead, alters the current environment using augmented reality. 
+
+        In recent years, One example of a platform that has been transformed by the integration of Augmented Reality (AR) technology is Social media. Social media platforms can now provide users with exciting new features like AR filters and lenses that let them create and share interactive and immersive content with the use of AR technology. One of the first social media sites to use augmented reality technology was Snapchat, which debuted its well-known AR lenses in 2015. Since then, other websites have copied this model and are now providing users with their own AR filters and effects, including Facebook and Instagram. Users now frequently use AR filters and lenses to express their creativity and interact more with their followers. Social media platforms can now offer new advertising opportunities utilizing AR technology.
+
+          With this, Augmented Reality (AR) has emerged as a relevant interactive technology. It did not just alter what social media can do, but also, it did enhanced user's experience in different fields such as gaming and entertainment where it made it more interactive and gave captivating experiences to users; education, where it designed interactive and interesting learning experiences like virtual field trips or anatomy lessons; health, where it gives real-time visual guidance during operations and help with recovery; and such, providing its capability of enabling users to interact with digital contents simultaneously and effectively. As AR technology continues to evolve, users can expect to see even more exciting advancements in social media and other fields. 
+
+
+
+2.1 Features of augmented reality
+
+John Hygen(2022) notes that the three main features of augmented reality are:
+
+1. Combining digital and real worlds
+2. Providing a medium for real-time interactions between these two worlds
+3. Accurate 3D identification and overlay of virtual and real-world objects
+
+       Augmented Reality created a new world by combining digital and real worlds where people can interact with digital objects and use it to improve its users' living lifestyle. With its' great features such as overlaying of 3D virtual and real-world objects, this allows users to have seamless AR experience enhancing user's perception and immersion in the augmented environment.  
+
+
+
+5.2 Importance and benefits
+
+       Over the years, Augmented Reality has become one of the advantageous tools that made interaction between virtual and real world possible. This has transformed different sectors of industries leading to enhanced, immersive, and quality engagement with their targeted users making their purpose and goals be implemented effectively.
+
+Here are some of the importance of Augmented Reality that makes it beneficial:
+
+Increase engagement : AR can enhance user experiences by providing interactive and engaging experiences that are not possible with traditional media.
+Improving the quality of production processes : By increasing productivity safely, lowering errors, and ensuring greater adherence to corporate standards, augmented reality solutions enable the improvement of production process quality.
+
+Reducing return rates : Augmented reality (AR) technology has emerged as a solution to this problem by providing consumers with immersive experiences such as 3D visualizations, virtual try-on, and product demos. AR empowers customers to make informed decisions before making a purchase, thus reducing the likelihood of returns
+
+Enhanced learning :    AR is also beneficial in learning organizations such as in School, workplace and hospitals. AR makes their training more realistic by showing its capability to bring virtual objects into life. With this, it makes their learning more interactive and visual which is often more memorable and engaging for the users. 
+
+Improving safety : AR can be used to improve safety in a variety of settings, such as operators can safeguard themselves from handling risks in the first place by interacting with the production environment more safely. The improved ergonomics of employees using AR solutions also makes it possible to benefit from physical and organizational advantages.
+
+
+
+
+
